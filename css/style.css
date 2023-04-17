@@ -1,0 +1,24 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+*{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+  width: 60%;
+}
+fieldset{
+  margin: 20px;
+}
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
