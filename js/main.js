@@ -65,7 +65,7 @@ function run(){
             console.log(lastRes)
         }
         if (last == 'd'){
-            lastRes = 'Godess'
+            lastRes = 'Gawd'
             console.log(lastRes)
         }
         console.log(`${firstRes} ${lastRes}`)
